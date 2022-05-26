@@ -36,3 +36,4 @@ while True :
         conf = str(input("Tente Novamente!!!. Quer Novos Palpites [S/N] : ")).strip()[0]
     print("-=" * 30)
 ```
+testando o termux!!!
